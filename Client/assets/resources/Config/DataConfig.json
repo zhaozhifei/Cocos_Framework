@@ -1,0 +1,83 @@
+
+{
+"InviteData":
+	[
+		{"id":1, "rewardLabel":"长按空白区域自动合并","inviteNum":2,"diamond":0,"level":0,"time":0},
+		{"id":2, "rewardLabel":"钻石+200","inviteNum":3,"diamond":200,"level":0,"time":0},
+		{"id":3, "rewardLabel":"钻石+300","inviteNum":5,"diamond":300,"level":0,"time":0},
+		{"id":4, "rewardLabel":"钻石+300","inviteNum":7,"diamond":300,"level":0,"time":0},
+		{"id":5, "rewardLabel":"钻石+466","inviteNum":9,"diamond":466,"level":0,"time":0},
+		{"id":6, "rewardLabel":"钻石+466","inviteNum":11,"diamond":466,"level":0,"time":0},
+		{"id":7, "rewardLabel":"钻石+632","inviteNum":13,"diamond":632,"level":0,"time":0},
+		{"id":8, "rewardLabel":"钻石+632","inviteNum":15,"diamond":632,"level":0,"time":0},
+		{"id":9, "rewardLabel":"钻石+800","inviteNum":18,"diamond":800,"level":0,"time":0},
+		{"id":10, "rewardLabel":"钻石+800","inviteNum":22,"diamond":800,"level":0,"time":0},
+		{"id":11, "rewardLabel":"钻石+966","inviteNum":26,"diamond":966,"level":0,"time":0},
+		{"id":12, "rewardLabel":"钻石+966","inviteNum":30,"diamond":966,"level":0,"time":0},
+		{"id":13, "rewardLabel":"钻石+1200","inviteNum":36,"diamond":1200,"level":0,"time":0},
+
+		{"id":14, "rewardLabel":"加倍时间+20秒","inviteNum":4,"diamond":0,"level":0,"time":20},
+		{"id":15, "rewardLabel":"加倍时间+20秒","inviteNum":6,"diamond":0,"level":0,"time":20},
+		{"id":16, "rewardLabel":"加倍时间+20秒","inviteNum":8,"diamond":0,"level":0,"time":20},
+		{"id":17, "rewardLabel":"加倍时间+30秒","inviteNum":10,"diamond":0,"level":0,"time":30},
+		{"id":18, "rewardLabel":"加倍时间+30秒","inviteNum":12,"diamond":0,"level":0,"time":30},
+		{"id":19, "rewardLabel":"加倍时间+30秒","inviteNum":14,"diamond":0,"level":0,"time":30},
+		{"id":20, "rewardLabel":"加倍时间+30秒","inviteNum":16,"diamond":0,"level":0,"time":30},
+		{"id":21, "rewardLabel":"加倍时间+30秒","inviteNum":21,"diamond":0,"level":0,"time":30}
+
+	],
+
+	"OwnerChatData":
+	[
+		{"id":1,"string1":"包租婆!!我的头洗到一半，你就把水闸关了","string2":"我不光是现在关，从明天开始，逢一、三、五停水.","sex":"1"},
+		{"id":2,"string1":"good morning….","string2":"good什么good，赶紧交房租…","sex":"2"},
+		{"id":3,"string1":"我的小奶狗不见了？？呜呜…….","string2":"肯定是被谁炖着吃了….","sex":"1"},
+		{"id":4,"string1":"隔壁老王又在放音乐了！吵死啦..","string2":"见面连招呼都不打，还想我帮你…","sex":"2"},
+		{"id":5,"string1":"公寓好像出现灵异事件了…..","string2":"眼睛花了..有我包租婆在…什么牛鬼蛇神敢来？","sex":"2"},
+		{"id":6,"string1":"想追求对面的美女，可以帮帮我吗？","string2":"你找老婆还是我找老婆？？？","sex":"2"},
+		{"id":7,"string1":"不好了，我的马桶堵塞了！求修理！","string2":"自己不会修吗！啊啊！","sex":"1"},
+		{"id":8,"string1":"我的房钥匙丢了，求开门…","string2":"去找修锁匠，别来烦我！","sex":"2"},
+		{"id":9,"string1":"公寓楼灯坏了,现在漆黑一片.","string2":"谁把灯关了！！！想尝尝1028种死法吗？？","sex":"1"},
+		{"id":10,"string1":"晾衣架上的衣服刮飞了……","string2":"天天洗衣服，没完没了..","sex":"2"},
+		{"id":11,"string1":"对面的公寓好像有个偷窥男？","string2":"..你这身材，有人偷窥吗….","sex":"1"},
+		{"id":12,"string1":"有个帅哥向我表白，我该肿么办？","string2":"凉拌！……","sex":"1"},
+		{"id":13,"string1":"啊啊啊，我娇嫩的脸上出痘痘了…….","string2":"这里有秘制护肤液，拿钱来…","sex":"2"},
+		{"id":14,"string1":"旅行青蛙怎么玩，教教我呗！","string2":"没看我在忙着吗…","sex":"1"},
+		{"id":15,"string1":"能在公寓开个图书馆吗？","string2":"怎么不开个电影院？？啊！","sex":"2"},
+		{"id":16,"string1":"旅行去了…小白留给房东您照顾了！","string2":"回去就把它送人….","sex":"1"},
+		{"id":17,"string1":"猪年快乐！收到我的贺卡了吗？","string2":"还行吧，我看好你，加油！","sex":"1"},
+		{"id":18,"string1":"这份礼物，帮我寄回老家！谢谢包租婆！","string2":"还是个孝顺的娃！…什么把我也带上..","sex":"2"},
+		{"id":19,"string1":"大舅哥的三姨妈的表妹来了，包租婆求抱抱！","string2":"房客都住满，打烊啦!！打烊啦!！","sex":"1"},
+		{"id":20,"string1":"呜呜，信用卡被冻结了，今天没饭吃了！！","string2":"真香….","sex":"1"},
+		{"id":21,"string1":"为什么每次足球比赛都看的我心力绞碎。","string2":"其实，下了那么多，我也慌得一比..","sex":"1"},
+		{"id":22,"string1":"用你的狮吼功帮我减减肥呗。","string2":"燃烧吧，你的卡路里！","sex":"1"},
+		{"id":23,"string1":"skr…skr…","string2":"你看这个面它又长又宽，就像这个碗它又大又圆","sex":"1"},
+		{"id":24,"string1":"我待生活如初恋…生活待我如磨难","string2":"呵..呵…又来了个傻缺","sex":"1"},
+		{"id":25,"string1":"遇见这么可爱的佛系青年，您怎么忍心加房租？","string2":"我为啥要跟钱过不去？少年！","sex":"1"},
+		{"id":26,"string1":"妖？人？","string2":"玛德智障！","sex":"1"},
+		{"id":27,"string1":"包租婆，快快，LOL就差你这个下单了！","string2":"丫的，你是真的皮！","sex":"1"},
+		{"id":28,"string1":"小小的VR世界，让我人生到达了巅峰！","string2":"这孩子，真是快乐肥宅男！","sex":"1"},
+		{"id":29,"string1":"包租婆，我发现达尔文进化论中的史诗级BUG了！","string2":"又一个杠精诞生了!","sex":"1"},
+		{"id":30,"string1":"包租婆，在爱情中为什么每次受伤的总是我？","string2":"阿门，佛说因为你就是个舔狗人士！","sex":"1"},
+		{"id":31,"string1":"包租婆，你再关我水阀，我削发为僧!!","string2":"这塔码是个狠人啊！得罪不起…","sex":"1"},
+		{"id":32,"string1":"可叹！生活在这吃瓜文化，锦鲤文化,沙雕文化满天飞的时代！","string2":"但这又是国潮文化，直男文化，土味文化遍地开花的时代","sex":"1"},
+		{"id":33,"string1":"包租婆，好累哇，能让我休息一会在搬砖行不？  ","string2":"累就对了，舒服是留给死人的。 ","sex":"1"},
+		{"id":34,"string1":"自从买了保险，过马路都不用看红绿灯了。","string2":"嗬，嗬！又有个可以随意欺压的房客了","sex":"1"},
+		{"id":35,"string1":"包租婆，突然感觉好迷茫？","string2":"这人生就像迷宫，让你上半生找寻入口，下半生找寻出口","sex":"1"},
+		{"id":36,"string1":"包租婆，看我身材好吗？","string2":"你再打扮也是那没加化肥的韭菜！","sex":"1"},
+		{"id":37,"string1":"包租婆，你以后想成为什么样的人？","string2":"什么意思，难道我以后就不能成为我自己了吗？","sex":"1"},
+		{"id":38,"string1":"我想有一个简单的选择，忙着死，要么忙着活？","string2":"那你就自我救赎吧！","sex":"1"},
+		{"id":39,"string1":"包租婆，你怎么会知道我独门武功的罩门？","string2":"哈哈！要知道了解你的永远是你的敌人","sex":"1"},
+		{"id":40,"string1":"我已生无可恋，就连回家也是奢望！这些钱你拿去吧！","string2":"人间不值得!","sex":"1"}
+		
+		],
+
+		"AppIconData":
+		[
+			{"id":1, "label":"棍子熊猫","appid":0,"appicon":"appicon/hunzipanda.png"},
+			{"id":2, "label":"别碰我啊","appid":1,"appicon":"appicon/biepengwo.png"},
+			{"id":3, "label":"全民抓娃娃","appid":2,"appicon":"appicon/zhuawaw.png"},
+			{"id":4, "label":"我怕个球","appid":3,"appicon":"appicon/tanqiu.png"},
+			{"id":5, "label":"一笔画猪","appid":4,"appicon":"appicon/yibihuazhu.png"}
+		]
+}

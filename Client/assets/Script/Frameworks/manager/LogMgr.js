@@ -1,11 +1,4 @@
-/*
- * @Author: mengjl
- * @Date: 2019-12-26 12:48:52
- * @LastEditTime : 2020-01-03 10:34:36
- * @LastEditors  : mengjl
- * @Description: 
- * @FilePath: \client\assets\Scripts\Frameworks\manager\LogMgr.js
- */
+
 
 module.exports = {
 
